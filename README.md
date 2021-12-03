@@ -11,8 +11,6 @@
 
 🌱 I’m currently learning Python, HTML, and Git
 
-:eyes: I’m interested in the intersection of computing with art, public policy, and accessibility
-
 :hammer: I'm currently working on a text adventure game and Advent of Code
 
 :kite: I also enjoy film photography, knitting, and printmaking
