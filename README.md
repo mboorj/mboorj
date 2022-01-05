@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning Python and Ruby
 
-:hammer: I'm currently working on a text adventure game and Advent of Code
+:hammer: I'm currently working on a text adventure game and a handful of Sonic Pi projects
 
 :kite: I also enjoy film photography, knitting, and printmaking
 
