@@ -9,7 +9,7 @@
 
 :school: I'm a freshman computer science major at Reed College
 
-🌱 I’m currently learning Python and Ruby
+🌱 I’m currently learning Ruby and C++
 
 :hammer: I'm currently working on a text adventure game and a handful of Sonic Pi projects
 
