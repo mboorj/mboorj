@@ -7,11 +7,7 @@
 </pre>
 <h2 align="center">Hi, I'm Mollie, aka @mboorj!</h2>
 
-:school: I'm a junior math major at Reed College and a TA at CTY Bristol
-
-🌱 I’m currently learning Rust and Ruby
-
-:speech_balloon: I'd love to chat about any of the above topics!
+:school: I'm a senior math major at Reed College and a TA + tutor for the math and cs departments
 
 <h4>You can also find me on...</h4>
 
